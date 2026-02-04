@@ -1,5 +1,5 @@
 <?php
-$nombre = 7;   // Tu peux changer la valpheur
+$nombre = 5;   // Tu peux changer la valpheur
 
 echo "<h1>Table de multiplication de $nombre</h1>";
 

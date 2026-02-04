@@ -6,7 +6,7 @@ $message = "<h1>Hello, world!</h1>";
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <?php echo $titre ?>
+  <?php print ($titre); ?>
 </head>
 <body>
   <?php echo $message; ?>

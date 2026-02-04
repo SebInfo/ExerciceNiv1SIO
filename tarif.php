@@ -1,5 +1,5 @@
 <?php
-$age = 20;
+$age = 88;
 
 if ($age < 12) {
     echo "Tarif enfant";

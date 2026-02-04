@@ -1,7 +1,7 @@
 <?php
 $debut = 5;
 $fin = 30;
-$pas = 3;
+$pas = 1;
 
 echo "<h1>Compteur</h1>";
 
